@@ -114,7 +114,7 @@ section .avatar {
 
 
 /* MEDIA QUERIES */
-@media (max-width:480px) {
+@media (max-width:600px) {
     #article {
         flex-direction: column;
     }
